@@ -3,7 +3,7 @@ Repository solely for Lab2
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2016 Ronald Law
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,4 +24,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ------------------------------------------------------------------------------
 
-The reason why I chose this license in particular is because I don't want to put restrictions of any kind upon it. The program I am working on merely tweaks the window explorer panel to display folder size, and I do not desire any form of compensation for it. Putting it under any restrictions would be pointless due to the simplistic nature of the project. I want it to be completely free to everyone to use, contribute to, and distribute as they see fit.
+The reason why I chose this license in particular is because I don't want to put restrictions of any kind upon it. The program I am working on merely tweaks the window explorer panel to display folder size, and I do not desire any form of compensation for it. Putting it under any restrictions would be pointless due to the simplistic nature of the project. I want it to be completely free to everyone to use, contribute to, and distribute as they see fit. Basically nothing matters to me other than I can get this thing to work, and that people can use it.
